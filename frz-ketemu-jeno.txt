@@ -4,6 +4,7 @@ KETEMU JENO
   * war tiket
   * izin
    - Beli tiket
+   - Beli Lightstick
 - Ke Korea 
 - Fanmeeting
   - Dapet Jeno
